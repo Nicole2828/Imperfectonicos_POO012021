@@ -14,13 +14,13 @@ namespace exampleg
             Console.WriteLine("Enter a value for b: ");
             b = Int32.Parse(Console.ReadLine());
 
-            Console.WriteLine($"Adding {a} + {b} equals {AddNumbers(a,b)} ");
+            Console.WriteLine($"Subtracting {a} - {b} equals {SubtractNumbers(a,b)} ");
 
         }
         
         // 1)Tasks: Hacer la primera modificación de la funcion AddNumbers
         // (convertirlo en resta) /
-        public static int AddNumbers(int a, int b)
+        public static int SubtractNumbers(int a, int b)
         {
             return a - b;
         }
