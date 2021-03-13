@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\desktop\\projects\\poo\\repo\\GuideWork\\GuideWork.csproj": {}
+    "C:\\Users\\yamab\\POO0121\\Goal1\\TaskOfTheFirstWeek\\Imperfectonicos_POO012021\\GuideWork\\GuideWork.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\desktop\\projects\\poo\\repo\\GuideWork\\GuideWork.csproj": {
+    "C:\\Users\\yamab\\POO0121\\Goal1\\TaskOfTheFirstWeek\\Imperfectonicos_POO012021\\GuideWork\\GuideWork.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\desktop\\projects\\poo\\repo\\GuideWork\\GuideWork.csproj",
+        "projectUniqueName": "C:\\Users\\yamab\\POO0121\\Goal1\\TaskOfTheFirstWeek\\Imperfectonicos_POO012021\\GuideWork\\GuideWork.csproj",
         "projectName": "GuideWork",
-        "projectPath": "C:\\Users\\HP\\desktop\\projects\\poo\\repo\\GuideWork\\GuideWork.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\desktop\\projects\\poo\\repo\\GuideWork\\obj\\",
+        "projectPath": "C:\\Users\\yamab\\POO0121\\Goal1\\TaskOfTheFirstWeek\\Imperfectonicos_POO012021\\GuideWork\\GuideWork.csproj",
+        "packagesPath": "C:\\Users\\yamab\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yamab\\POO0121\\Goal1\\TaskOfTheFirstWeek\\Imperfectonicos_POO012021\\GuideWork\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\yamab\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
