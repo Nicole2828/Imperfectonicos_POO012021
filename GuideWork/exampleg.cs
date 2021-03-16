@@ -14,18 +14,19 @@ namespace exampleg
             Console.WriteLine("Enter a value for b: ");
             b = Int32.Parse(Console.ReadLine());
 
-            Console.WriteLine($"Subtracting {a} - {b} equals {SubtractNumbers(a,b)} ");
+            Console.WriteLine($"Multiplying {a} * {b} equals {MultiplyNumbers(a,b)} ");
 
         }
         
-        // 1)Tasks: Hacer la primera modificación de la funcion AddNumbers
-        // (convertirlo en resta) /
-        public static int SubtractNumbers(int a, int b)
+        // 1) Task: Hacer la primera modificación de la funcion AddNumbers
+        // (convertirlo en resta) 
+        // 2) Task: Hacer la segunda modificación de la funcion AddNumbers
+        // (convertirlo en multiplicación)
+        public static int MultiplyNumbers(int a, int b)
         {
-            return a - b;
+            return a * b;
         }
     }
 }
 
-//2) Tasks: Hacer la segunda modificación de la funcion AddNumbers
-// (convertirlo en multiplicación) 
+ 
